@@ -48,6 +48,29 @@
 ### Nearest Centroid Classifier
 - Gaussian distribution assumption
 
+## Linear Regression
 
+### Exploratory Data Analysis
 
+### hypothesis space
 
+### loss function
+
+### Analytical Solution
+
+### statistical view
+
+## Nonlinearization
+
+### Local Weighting
+
+## Regularization
+
+### L2 Regularization
+
+### L1 Regularization
+- feature selection
+
+### L0 Norm
+
+## 
